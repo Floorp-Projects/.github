@@ -1,6 +1,6 @@
 # Floorp プロジェクトとは？
 
-![image](https://user-images.githubusercontent.com/73892113/149747083-5e0757c1-03bf-4f35-990b-1a4f8d069574.png)
+![image](https://user-images.githubusercontent.com/73892113/149747462-7bc173f9-0dc9-4961-9fc8-77fc766aacfc.png)
 
 
 
