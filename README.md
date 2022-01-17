@@ -1,6 +1,7 @@
 # Floorp プロジェクトとは？
 
-![Floorp ブラウザーの外観](https://user-images.githubusercontent.com/73892113/149746573-0e9de486-7c56-446d-a52d-816d08c73e95.png)
+![image](https://user-images.githubusercontent.com/73892113/149747083-5e0757c1-03bf-4f35-990b-1a4f8d069574.png)
+
 
 
 Floorp プロジェクトは、プライバシーを追求し、匿名性とウェブの公開性のバランスを追求する、プロジェクトのことです。Floorp ブラウザーは、Firefox ベースですが、Chromium ベースのようなUI、機能など、Firefox とは全く違う体験をお届けします。
