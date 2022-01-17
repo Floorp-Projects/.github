@@ -9,7 +9,7 @@
 The Floorp browser is based on Firefox, but delivers a completely different experience from Firefox, with a Chromium-like UI and features.
 <br>
 
-For a list of contributors and the open source software they used, please click <a href="https://addons.mozilla.org">here</a> to check.
+For a list of contributors and the open source software they used, please click <a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/Contributeder%26SoftwareContribute.md">here</a> to check.
 
 ---
 ### 🔨 Projects
