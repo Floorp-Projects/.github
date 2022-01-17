@@ -1,5 +1,4 @@
-# 👋公式 Floorp プロジェクトリポジトリへようこそ！
-
+## 👋公式 Floorp プロジェクトリポジトリへようこそ
 
 ![header](https://user-images.githubusercontent.com/73892113/149768491-79861cc9-26e8-4cff-89dc-5bb84843b425.png)
 
@@ -13,3 +12,22 @@ Floorp ブラウザーは、Firefox ベースですが、Chromium ベースの�
 ・Twitter 
 
 アドオンは、Firefox のアドオンが使用可能になっています。アドオンは、<a href="https://addons.mozilla.org">AMO</a> から入手が可能です。
+
+### 🔨 プロジェクト
+・<strong><a href="https://floorp.ablaze.one"> Floorp Legacy ブラウザ</a></strong>　プライバシーを尊重する、Firefox ベースのブラウザー。ユーザからいただくフィードバックの大半はすぐに反映されます。ユーザファーストのブラウザー
+
+### ☕ Floorp プロジェクトに貢献する
+・ダウンロードして、メインのブラウザーにするが最も簡単で Floorp ブラウザのダウンロードは<strong><a href="https://floorp.ablaze.one">こちら</a></strong>
+
+・寄付をすることも出来ます！健全なウェブの世界を作ることを手伝ってください！寄付をするには、<strong><a href="https://support.ablaze.one/contact">サポート</a></strong>までご連絡ください。
+
+・ブログや Twitter で紹介することも手です。ブラウザーを広めるのを手伝ってください！ブログを書いていただければ喜んで開発陣も見に行きます！
+
+### リソース
+・💿 <strong><a href="https://floorp.ablaze.one">公式サイト</a></strong>
+
+・💻 <strong><a href="https://https://github.com/Floorp-Projects/Floorp-legacy-dev">ブラウザーのソースコード</a></strong>
+
+・📘 <strong><a href="https://blog.ablaze.one">リリースノート ＆ ブログ</a></strong>
+
+・❓<strong><a href="https://support.ablaze.one">サポートサイト</a></strong>
