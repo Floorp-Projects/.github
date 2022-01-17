@@ -1,6 +1,7 @@
 # 👋公式 Floorp プロジェクトリポジトリへようこそ！
 
-![cAwxtQsOwRgOfpK1642413929_1642413953](https://user-images.githubusercontent.com/73892113/149749551-3e1e2f2d-3e48-41f6-a7f0-93fd4edea7ab.png)
+
+![header](https://user-images.githubusercontent.com/73892113/149768491-79861cc9-26e8-4cff-89dc-5bb84843b425.png)
 
 
 
@@ -9,6 +10,6 @@
 
 Floorp ブラウザーは、Firefox ベースですが、Chromium ベースのようなUI、機能など、Firefox とは全く違う体験をお届けします。
 
-アドオンは、Firefox のアドオンが使用可能になっています。アドオンは、<a href="https://addons.mozilla.org">AMO</a> から入手が可能です。
+・Twitter 
 
-＊作成途中です
+アドオンは、Firefox のアドオンが使用可能になっています。アドオンは、<a href="https://addons.mozilla.org">AMO</a> から入手が可能です。
