@@ -1,5 +1,5 @@
 ## 👋 Welcome to the Floorp project repository !
-日本語訳は<a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/README.md">こちら</a>
+<div style="text-align: right;">日本語訳は<a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/README.md">こちら</a></div>
 
 ![header](https://user-images.githubusercontent.com/73892113/149768491-79861cc9-26e8-4cff-89dc-5bb84843b425.png)
 
