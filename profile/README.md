@@ -1,42 +1,41 @@
-## 👋 Floorp プロジェクトのリポジトリへようこそ
+## 👋 Welcome to the Floorp project repository !
+日本語訳は<a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/README.md>こちら</a>
 
 ![header](https://user-images.githubusercontent.com/73892113/149768491-79861cc9-26e8-4cff-89dc-5bb84843b425.png)
 
+## 💫 What is the Floorp Project?
+<strong> " The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web."</strong>
 
-
-## 💫 Floorp プロジェクトとは？
-<strong>「Floorp プロジェクトは、プライバシーを追求し、匿名性とウェブの公開性のバランスを追求する、プロジェクトのことです。」</strong>
-
-Floorp ブラウザーは、Firefox ベースですが、Chromium ベースのようなUI、機能など、Firefox とは全く違う体験をお届けします。
+The Floorp browser is based on Firefox, but delivers a completely different experience from Firefox, with a Chromium-like UI and features.
 <br>
 
-アドオンは、Firefox のアドオンが使用可能になっています。アドオンは、<a href="https://addons.mozilla.org">AMO</a> から入手が可能です。
+For a list of contributors and the open source software they used, please click <a href="https://addons.mozilla.org">here</a> to check.
 
 ---
-### 🔨 プロジェクト
+### 🔨 Projects
 
-開発中のプロジェクト：
+Projects in Development：
 
-・<strong><a href="https://floorp.ablaze.one"> Floorp Legacy ブラウザ</a></strong>　プライバシーを尊重する、Firefox ベースのブラウザー。ユーザからいただくフィードバックの大半はすぐに反映されます。ユーザファーストのブラウザー
+・<strong><a href="https://floorp.ablaze.one"> Floorp Legacy Browser</a></strong>　A Firefox-based browser that respects your privacy. Most of the feedback we receive from our users is immediately reflected in the site. A user-first browser
 <br>
-### ☕ Floorp プロジェクトに貢献する
+### ☕ Contribute to the Floorp project !
 
-より良いウェブの構築を目指しましょう。貢献する手段はたくさんあります：
+Let's work towards building a better web. There are many ways to contribute:
 
-・ダウンロードして、メインのブラウザーにするが最も簡単で Floorp ブラウザのダウンロードは<strong><a href="https://floorp.ablaze.one">こちら</a></strong>
+・The easiest way is to try it out and make it your main browser.download Floorp Browser link is<strong><a href="https://floorp.ablaze.one">here</a></strong>
 
-・寄付をすることも出来ます！健全なウェブの世界を作ることを手伝ってください！寄付をするには、<strong><a href="https://support.ablaze.one/contact">サポート</a></strong>までご連絡ください。
+・You can even make a donation! Help us build a healthier web world! Click <strong><a href="https://support.ablaze.one/contact">here</a></strong> and please let me know w how to donate.
 
-・ブログや Twitter で紹介することも手です。ブラウザーを広めるのを手伝ってください！ブログを書いていただければ喜んで開発陣も見に行きます！
+・You can also introduce it on your blog or Twitter. Help us spread the word about the browser! If you write a blog, we'll be happy to take a look!
 
-### 👐 リソース
+### 👐 Resource
 
-公式サイトからソースコードまで：
+From the official site to the source code:
 
-💿 <strong><a href="https://floorp.ablaze.one">公式サイト</a></strong>
+💿 <strong><a href="https://floorp.ablaze.one">official site</a></strong>
 
-💻 <strong><a href="https://https://github.com/Floorp-Projects/Floorp-legacy-dev">ブラウザーのソースコード</a></strong>
+💻 <strong><a href="https://https://github.com/Floorp-Projects/Floorp-legacy-dev">Floorp Browser source code</a></strong>
 
-📘 <strong><a href="https://blog.ablaze.one">リリースノート ＆ ブログ</a></strong>
+📘 <strong><a href="https://blog.ablaze.one">Blog & release notes</a></strong>
 
-❓<strong><a href="https://support.ablaze.one">サポートサイト</a></strong>
+❓<strong><a href="https://support.ablaze.one">official support site & Send feedback</a></strong>
