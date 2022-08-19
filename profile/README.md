@@ -34,7 +34,7 @@ From the official site to the source code:
 
 💿 <strong><a href="https://floorp.ablaze.one">official site</a></strong>
 
-💻 <strong><a href="https://github.com/Floorp-Projects/Floorp-dev">Floorp Browser source code</a></strong>
+💻 <strong><a href="https://github.com/Floorp-Projects/Floorp">Floorp Browser source code</a></strong>
 
 📘 <strong><a href="https://blog.ablaze.one">Blog & release notes</a></strong>
 
