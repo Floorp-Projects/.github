@@ -4,7 +4,7 @@
 ![header](https://user-images.githubusercontent.com/73892113/149768491-79861cc9-26e8-4cff-89dc-5bb84843b425.png)
 
 ## 💫 What is the Floorp Project?
-<strong> " The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web."</strong>
+<strong> "The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web."</strong>
 
 The Floorp browser is based on Firefox, but delivers an entirely different experience from Firefox, with a Chromium-like UI and features.
 <br>
