@@ -16,7 +16,7 @@ For a list of contributors and the open-source software they used, please click 
 
 Projects in Development：
 
-・<strong><a href="https://floorp.ablaze.one"> Floorp Browser</a></strong> - A Firefox-based browser that respects your privacy. Most of the feedback we receive from our users is immediately reflected in the site. A user-first browser
+・<strong><a href="https://floorp.ablaze.one"> Floorp Browser</a></strong> - A Firefox-based browser that respects your privacy. Most of the feedback we receive from our users is immediately reflected in the site. A user-first browser.
 <br>
 ### ☕ Contribute to the Floorp project !
 
