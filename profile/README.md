@@ -1,7 +1,7 @@
 ## 👋 Welcome to the Floorp project repository !
 <div style="text-align: right;">日本語訳は<a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/README.md">こちら</a></div>
 
-![header](./header.png)
+![header](https://raw.githubusercontent.com/Floorp-Projects/.github/main/profile/header.png)
 
 ## 💫 What is the Floorp Project?
 <strong> "The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web."</strong>
