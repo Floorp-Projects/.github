@@ -4,9 +4,9 @@
 ![header](https://raw.githubusercontent.com/Floorp-Projects/.github/main/profile/header.png)
 
 ## 💫 What is the Floorp Project?
-<strong> "The Floorp project is a project that seeks privacy and a balance between anonymity and the public nature of the web."</strong>
+<strong> "Floorp is a browser that seeks a balance between versatility, unmonitoring and web openness."</strong>
 
-The Floorp browser is based on Firefox, but delivers an entirely different experience from Firefox, with a Chromium-like UI and features.
+Floorp is the most sophisticated, unlimitedly customizable, and unsupervised web browser in the Firefox derivation
 <br>
 
 For a list of contributors and the open-source software they used, please click <a href="https://github.com/Floorp-Projects/About-Floorp-Projects/blob/main/Contributeder%26SoftwareContribute.md">here</a> to check.
