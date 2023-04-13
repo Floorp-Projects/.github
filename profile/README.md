@@ -36,6 +36,6 @@ From the official site to the source code:
 
 💻 <strong><a href="https://github.com/Floorp-Projects/Floorp">Source Code</a></strong>
 
-📘 <strong><a href="https://blog.ablaze.one">Blog & Release notes</a></strong>
+📘 <strong><a href="https://blog.ablaze.one/category/ablaze/ablaze-project/floorp/">Blog & Release notes</a></strong>
 
 ❓ <strong><a href="https://support.ablaze.one">Official Support Site & Send feedback</a></strong>
