@@ -24,7 +24,7 @@ Let's work towards building a better web. There are many ways to contribute:
 
 ・The easiest way is to try it out and make it your main browser. Download Floorp Browser <strong><a href="https://floorp.app">here</a></strong>
 
-・You can even make a donation! Help us build a healthier web world! Click <strong><a href="https://support.ablaze.one/contact">here</a></strong>, and please let me know how to donate.
+・You can even make a donation! Help us build a healthier web world! Click <strong><a href="https://github.com/sponsors/surapunoyousei">here</a></strong>
 
 ・You can also introduce it on your blog or Twitter. Help us spread the word about the browser! If you write a blog, we'll be happy to take a look!
 
@@ -36,8 +36,8 @@ From the official site to the source code:
 
 💻 <strong><a href="https://github.com/Floorp-Projects/Floorp">Source Code</a></strong>
 
-📘 <strong><a href="https://blog.ablaze.one/category/ablaze/ablaze-project/floorp/">Blog & Release notes</a></strong>
+📘 <strong><a href="https://blog.floorp.app/">Blog & Release notes</a></strong>
 
-❓ <strong><a href="https://support.ablaze.one">Official Support Site & Send feedback</a></strong>
+💬 <strong><a href="https://discord.floorp.app">Official Floorp Projects Community</a></strong>
 
 📄 <strong><a href="https://docs.floorp.app">Documentation</a></strong>
