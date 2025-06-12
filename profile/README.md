@@ -38,6 +38,6 @@ From the official site to the source code:
 
 📘 <strong><a href="https://blog.floorp.app/">Blog & Release notes</a></strong>
 
-❓ <strong><a href="https://discord.floorp.app">Official Support Site & Send feedback</a></strong>
+💬 <strong><a href="https://discord.floorp.app">Official Floorp Projects Community</a></strong>
 
 📄 <strong><a href="https://docs.floorp.app">Documentation</a></strong>
